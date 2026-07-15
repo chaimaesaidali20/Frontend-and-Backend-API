@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="FrontendHTLM.AppHost/FrontendHTLM.AppHost.csproj" />
-  <Project Path="FrontendHTLM.Server/FrontendHTLM.Server.csproj" />
-</Solution>
